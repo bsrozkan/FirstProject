@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.neotwch.review04&apos; to &apos;com.neotech.review04&apos;&#x0A;- Original project: &apos;JavaReview4Busra&apos;&#x0A;- Original element: &apos;JavaReview4Busra/src/com.neotwch.review04&apos;&#x0A;- Renamed element: &apos;JavaReview4Busra/src/com.neotech.review04&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.neotwch.review04&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.neotwch.review04" name="com.neotech.review04" qualified="false" references="true" stamp="1667491966807" textual="false" version="1.0"/>
+</session>

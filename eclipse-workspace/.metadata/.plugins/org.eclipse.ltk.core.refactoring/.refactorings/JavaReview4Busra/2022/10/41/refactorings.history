@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.neotech.review01.Task1&apos; to &apos;CalculatorIfElse&apos;&#x0A;- Original project: &apos;JavaReview4Busra&apos;&#x0A;- Original element: &apos;com.neotech.review01.Task1&apos;&#x0A;- Renamed element: &apos;com.neotech.review01.CalculatorIfElse&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Task1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.neotech.review01{Task1.java[Task1" matchStrategy="1" name="CalculatorIfElse" qualified="false" references="true" similarDeclarations="false" stamp="1664731982696" textual="false" version="1.0"/>
+</session>

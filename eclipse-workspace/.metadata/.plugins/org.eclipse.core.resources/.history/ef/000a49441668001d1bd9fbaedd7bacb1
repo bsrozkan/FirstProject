@@ -1,0 +1,18 @@
+package com.neotech.lesson27;
+
+public class RegistrationTest {
+	
+	public static void main(String[] args) {
+		
+		Registration r = new Registration ();
+		System.out.println("----Email----");
+		
+		r.setEmail("brian@fox.com");
+		r.getEmail();
+		System.out.println("Email ->" + r.getEmail());
+		
+		
+		
+	}
+
+}
